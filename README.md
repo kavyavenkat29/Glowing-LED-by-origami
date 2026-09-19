@@ -23,7 +23,8 @@ A. Heartful paper based greeting card constructed using basic components.
 *  Check the final result.
 
 ![circuit image.jpeg
-][image1]![][image2]
+][image1]![greeting card.jpeg
+][image2]
 
 #### **4.Notes**
 
